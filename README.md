@@ -2,7 +2,7 @@ Aprendizaje Supervisado - Prediccion precios en Airbnb
 
 Este repositorio contiene un trabajo práctico en el que aplicamos diversas técnicas de aprendizaje automático supervisado para comprender y modelar un conjunto de datos de Airbnb.
 
-Descripción del Proyecto
+Descripción del Proyecto:
 
 El objetivo del proyecto es predecir el precio por noche de cada hogar en función de varias variables predictoras incluidas en el conjunto de datos. A través de este trabajo práctico, aplicaremos técnicas de construcción de modelos supervisados.
 
